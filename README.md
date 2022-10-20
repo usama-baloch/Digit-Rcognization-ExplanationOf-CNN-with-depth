@@ -1,6 +1,7 @@
 # Digit-Rcognization-ExplanationOf-CNN-with-depth
 
 
+If anyone need to work on this project, fork this and start working, if your solution is much better than mine than we can update here.
 ## WorkFlow:
 
  ==> You wonder how we use these images to predict by using Model? The Answer you will get is:
